@@ -22,7 +22,7 @@
     "lodash": "^3.9.3",
     "mkdirp": "*",
     "request": "*",
-    "uglify-js": "*",
+    "uglify-js": "^2.8.0",
     "ws": "0.8.0"
   },
   "devDependencies": {
